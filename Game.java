@@ -1,4 +1,4 @@
-package projet;
+package Connect4;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -170,6 +170,7 @@ public class Game {
             e1.printStackTrace();
         }
         this.createPlayersList();
+        this.clearScreen();
         System.out.println(grid.toString());
         int playerIndex=0;
         while (this.isOver == false) {        

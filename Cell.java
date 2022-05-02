@@ -1,4 +1,4 @@
-package projet;
+package Connect4;
 
 /**
  * Classe permettant de créer une cellule, de la lier à ses voisins (s'ils existent) 

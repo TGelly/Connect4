@@ -1,4 +1,5 @@
-package projet;
+package Connect4;
+
 import java.util.Scanner;
 
 /**
